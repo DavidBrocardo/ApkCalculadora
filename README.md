@@ -1,2 +1,2 @@
 # ApkCalculadora
-Aplicativo desenvolvido atráves do Android Studio de uma Calculadora
+Aplicativo de uma Calculadora desenvolvido no Android Studio 
